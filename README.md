@@ -1,4 +1,6 @@
 ##Colorful Clock
+[![Colorful Clock](http://www.instructables.com/files/orig/FVO/CNFT/I1C1FKNL/FVOCNFTI1C1FKNL.gif)](http://www.instructables.com/id/Colorful-Clock/)
+you can get more information at http://www.instructables.com/id/Colorful-Clock/
 
 ----
 This software is written by lawliet zou ([wei.zou@seeedstudio.com](wei.zou@seeedstudio.com)) for seeed studio<br>
