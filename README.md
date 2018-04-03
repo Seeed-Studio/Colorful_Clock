@@ -1,5 +1,9 @@
-##Colorful Clock
-[![Colorful Clock](http://www.instructables.com/files/orig/FVO/CNFT/I1C1FKNL/FVOCNFTI1C1FKNL.gif)](http://www.instructables.com/id/Colorful-Clock/)
+## Colorful Clock 
+
+![Colorful Clock](http://www.instructables.com/files/orig/FVO/CNFT/I1C1FKNL/FVOCNFTI1C1FKNL.gif)
+
+[Colorful Clock on instructables](http://www.instructables.com/id/Colorful-Clock/)
+
 <br>you can get more information at http://www.instructables.com/id/Colorful-Clock/
 
 ----
